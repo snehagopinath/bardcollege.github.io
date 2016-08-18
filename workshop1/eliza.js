@@ -225,6 +225,8 @@ var rules = {
   "~*x perhaps ~*y": [
     "You do not seem quite certain",
   ],
+  "~*x do you like ~*y": [
+  	"OMG YESSS I LOVE ~y !!!"]
 };
 
 var default_responses = [
